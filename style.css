@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background:url('./image.png');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 100vh;
+    background-size: cover;
+}
+.dob{
+    background-color: black;
+    padding: 2rem;
+    border-radius: 1rem;
+}
+.dob>input, .dob>button{
+    padding: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    background-color: white;
+}
+.result{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-size: 1rem;
+    color: white;
+}
+span{
+    background-color: black;
+    text-align: center;
+    margin-top: 2rem;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+@media screen and(max-width:720px){
+:root{
+    font-size: 12px;
+}    
+}
