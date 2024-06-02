@@ -12,8 +12,8 @@ This is a simple age calculator that calculates the age of a person based on the
 
 ## Usage
 
-1. **Date of Birth**: Enter the date of birth in the format `YYYY-MM-DD`.
-2. **Current Date**: Enter the current date in the format `YYYY-MM-DD`.
+1. **Date of Birth**: Enter the date of birth.
+2. **Current Date**: Enter the current date. 
 3. **Height**: Enter the height in centimeters.
 4. **Weight**: Enter the weight in kilograms.
 5. **Calculate**: Click the `Calculate` button to get the results.
